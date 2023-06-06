@@ -9,11 +9,4 @@
     }
 
     var_dump(eliminarDuplicados("Hola, mejor amigo mio Joel."));
-
-
-
-
-
-
-
 ?>
