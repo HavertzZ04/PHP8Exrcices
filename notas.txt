@@ -1,0 +1,7 @@
+Estudiar
+
+-Autoload
+-spl_autoload_register 
+-Abstraccion
+
+Metodos de modularizacion
